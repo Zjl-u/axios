@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "啦啦啦",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "9c2c",
+      "body": "不要吃十块钱三包的汤圆",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
